@@ -1,0 +1,15 @@
+# Handwritten Digit Recognizer
+
+A CNN-based handwritten digit recognition system using TensorFlow and Streamlit.
+
+## Features
+- Real-time digit recognition
+- Drawing canvas
+- CNN model trained on MNIST
+- 99% accuracy
+
+## Tech Stack
+- Python
+- TensorFlow
+- Streamlit
+- OpenCV
